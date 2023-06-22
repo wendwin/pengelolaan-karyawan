@@ -1,0 +1,11 @@
+
+Thu, Jun 22 2023 07:16:52
+ID           : 1
+Nama         : Andi
+No Hp        : 082123456789
+Divisi       : IT
+Keterangan   : Cuti
+Mulai Tgl    : 21 Juni 2023
+Sampai tgl   : 30 Juni 2023
+
+Status ID 1  : Terverifikasi
